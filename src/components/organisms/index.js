@@ -1,0 +1,13 @@
+export { Navbar } from './Navbar.jsx';
+export { Hero } from './Hero.jsx';
+export { FeatureGrid } from './FeatureGrid.jsx';
+export { AboutSnippetSection } from './AboutSnippetSection.jsx';
+export { ServiceHighlightSection } from './ServiceHighlightSection.jsx';
+export { Testimonials } from './Testimonials.jsx';
+export { FAQ } from './FAQ.jsx';
+export { JournalGrid } from './JournalGrid.jsx';
+export { NewsletterSection } from './NewsletterSection.jsx';
+export { ContactSection } from './ContactSection.jsx';
+export { CTASection } from './CTASection.jsx';
+export { Footer } from './Footer.jsx';
+export { ScrollytellingSection } from './ScrollytellingSection.jsx';
